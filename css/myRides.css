@@ -1,0 +1,82 @@
+#myRequests{
+    margin-top: 200px;
+    float: left;
+    padding-left: 60px;
+}
+
+#noRequests{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 200px;
+    float: left;
+    padding-left: 60px;
+}
+#noRequests a{
+    text-decoration: none;
+    color:  rgb(19, 138, 132);
+    font-weight: bold;
+}
+
+#noRequests a:hover{
+    text-decoration: none;
+    color:  #000000;
+    font-weight: bold;
+    transition-delay: 0.35ms;
+}
+
+#myOffers{
+    margin-top: 200px;
+    float: right;
+    padding-right: 80px;
+}
+
+#noOffers{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 200px;
+    float: right;
+    padding-right: 80px;
+}
+#noOffers a{
+    text-decoration: none;
+    color:  rgb(19, 138, 132);
+    font-weight: bold;
+}
+
+#noOffers a:hover{
+    text-decoration: none;
+    color:  #000000;
+    font-weight: bold;
+    transition-delay: 0.35ms;
+}
+.trash{
+    width: 30px;
+    height: 30px;
+}
+
+main{
+    padding-bottom: 500px;
+  }
+
+
+table {
+    border-collapse: collapse;
+    width:500px;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  tr:hover {background-color:  rgba(19, 138, 132, 0.09);
+}
+
+  #requestsH, #offersH{
+    font-family: 'Montserrat', sans-serif;
+    color:  rgb(19, 138, 132);
+    text-shadow: #000000;
+
+
+  }
